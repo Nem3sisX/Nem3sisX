@@ -6,3 +6,5 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [1]: https://twitter.com/TheShresthRana
 [2]: https://www.linkedin.com/in/shresthrana/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nem3sisX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
