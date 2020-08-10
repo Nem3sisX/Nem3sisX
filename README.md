@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
 Looks like you have stumbled upon my GitHub profile.  
-My name is Shresth Rana and I'm a Computer Science Junior based out of New Delhi, India. Free feel to have a look at my repositories down below.
+My name is Shresth Rana and I'm a Computer Science Junior based out of New Delhi, India. Free feel to have a look at my repositories down below.  
 <br/>
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
