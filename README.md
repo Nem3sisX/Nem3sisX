@@ -9,5 +9,5 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 #### :chart_with_upwards_trend: GitHub Stats
  --------------------------------------------------------------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nem3sisX&layout=compact&theme=radical)![Shresth's github stats](https://github-readme-stats.vercel.app/api?username=Nem3sisX&theme=radical&hide=prs,issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nem3sisX&layout=compact&theme=radical)![Shresth's github stats](https://github-readme-stats.vercel.app/api?username=Nem3sisX&theme=radical&hide=issues)
 
