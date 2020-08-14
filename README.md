@@ -5,7 +5,7 @@
 Looks like you have stumbled upon my GitHub profile.  
 My name is Shresth Rana and I'm a Computer Science Junior based out of New Delhi, India.  
 
-Shoot me a [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers), I'll have a look at your profile and it would be amazing to see your interesting projects. Feel free to have a look at my repositories down below, maybe you'll find something you like. 
+Shoot me a [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Nem3sisX?tab=followers), I'll have a look at your profile and it would be amazing to see your interesting projects. Feel free to have a look at my repositories down below, maybe you'll find something you like. 
 
 <p align="center">
  <img src="https://media.giphy.com/media/gj63CIa513BqQahEch/giphy.gif" width="150">
