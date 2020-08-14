@@ -1,5 +1,3 @@
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="center">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
@@ -7,7 +5,7 @@
 Looks like you have stumbled upon my GitHub profile.  
 My name is Shresth Rana and I'm a Computer Science Junior based out of New Delhi, India.  
 
-Shoot me a <a class="github-button" href="https://github.com/Nem3sisX" data-color-scheme="no-preference: dark; light: dark; dark: dark;" aria-label="Follow @Nem3sisX on GitHub">Follow @Nem3sisX</a> , I'll have a look at your profile and it would be amazing to see your interesting projects. Feel free to have a look at my repositories down below, maybe you'll find something you like. 
+Shoot me a follow, I'll have a look at your profile and it would be amazing to see your interesting projects. Feel free to have a look at my repositories down below, maybe you'll find something you like. 
 
 <p align="center">
  <img src="https://media.giphy.com/media/gj63CIa513BqQahEch/giphy.gif" width="150">
