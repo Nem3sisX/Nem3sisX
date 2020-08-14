@@ -16,5 +16,6 @@ You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <p align="center">
  <img src="https://media.giphy.com/media/gj63CIa513BqQahEch/giphy.gif" width="100">
 </p> 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nem3sisX&layout=compact&theme=radical)![Shresth's github stats](https://github-readme-stats.vercel.app/api?username=Nem3sisX&theme=radical&hide=issues)
 
