@@ -5,6 +5,10 @@
 Looks like you have stumbled upon my GitHub profile.  
 My name is Shresth Rana and I'm a Computer Science Junior based out of New Delhi, India. Feel free to have a look at my repositories down below.  
 
+<p align="center">
+ <img src="https://media.giphy.com/media/gj63CIa513BqQahEch/giphy.gif" width="150">
+</p> 
+
 You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -13,9 +17,6 @@ You can also find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/shresthrana/
 
 ## :chart_with_upwards_trend: GitHub Stats ![counter](https://enpbwuuczaqrxu7.m.pipedream.net)
-<p align="center">
- <img src="https://media.giphy.com/media/gj63CIa513BqQahEch/giphy.gif" width="150">
-</p> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nem3sisX&layout=compact&theme=radical)![Shresth's github stats](https://github-readme-stats.vercel.app/api?username=Nem3sisX&theme=radical&hide=issues)
 
