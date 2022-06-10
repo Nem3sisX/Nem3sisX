@@ -3,7 +3,7 @@
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p> 
 Looks like you have stumbled upon my GitHub profile.  
-My name is Shresth Rana and I'm a Computer Science Junior based out of New Delhi, India.  
+My name is Shresth Rana and I'm based out of New Delhi, India.  
 <br/><br/> 
 
 Shoot me a [![GitHub followers](https://img.shields.io/github/followers/Nem3sisX.svg?style=social&label=Follow)](https://github.com/Nem3sisX?tab=followers), I'll have a look at your profile and it would be amazing to see your interesting projects. Feel free to have a look at my repositories down below, maybe you'll find something you like. 
